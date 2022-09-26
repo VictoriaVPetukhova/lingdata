@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T19:01:56+05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/ASUS/Desktop/линда/дз 21.09.22/Лекция №1 - История искусств (часть 1) (online-video-cutter.com).mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Лекция №1 - История искусств (часть 1) (online-video-cutter.com).mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a759ac1c-69c7-439c-a3a6-56f82ceb1a4f</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">98</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="8616"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9583"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="21800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="24310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="37870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="41270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="52660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="56260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="62310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="67540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="80210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="81400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="89080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="92350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="109000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="111950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="119412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="122212"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="138450"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="@vvp2004f" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="@sat1956m" TIER_ID="text@sat1956m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>тем не менее / встречается / я не скажу / регресс / ни в коем случае // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>но времена / застоя / стагнации / бесспорно / мы в истории встречаем //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>и / связано это с ещё одним / принципиально важным / моментом / который мне бы хотелось чтобы вы поняли изначально //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ээ / это связано с м... с мыслью / которую я буду вам повторять на протяжении всех / наших с вами встреч //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>искусство напрямую связано / с мировоззрением //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>как человек / видит / окружающее мироздание / что он о нём / думает и понимает /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>так / он / и / мыслит / в / художественном языке //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>и / любая смена / художественного языка / всегда напрямую / изначально связана / с изменением / мировоззрения //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>сперва меняется мировоззрение / а потом в связи с этим меняется и искусство //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>и вот для того чтобы / это понять / ээ / мы сделаем ещё один короткий экскурс / в давнюю историю / и отправимся с вами / в древнюю грецию //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="@vvp2004f" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@sat1956m"
+        PARTICIPANT="@sat1956m" TIER_ID="transl@sat1956m-cp">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Nevertheless, there is, I will not say in any case "a regression".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>But we undoubtedly face times of stagnation in history.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>And this is connected with another one 
+fundamentally important moment, which I want you to understand initially. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Uh, this is connected with an id... with an idea, which I will repeat to you throughout all our meetings.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Art is directly related to the worldview.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>
+As a person sees the surrounding universe, what he thinks about it and understands,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>so he thinks in an artistic language.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>And any change of artistic language is always directly initially connected with a change in worldview.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Firstly, the worldview changes and then, in connection with this, the art also changes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>And in order to understand it, uh, we will make another short excursus into ancient history and turn to Ancient Greece.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
